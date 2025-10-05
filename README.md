@@ -1,9 +1,6 @@
 # A World Away: Hunting for Exoplanets with AI
 
-https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/NASA-Data-0B3D91?style=for-the-badge&logo=nasa&logoColor=white
+
 
 An advanced AI-powered exoplanet detection system that combines machine learning, signal processing, and astronomical analysis to discover planets around distant stars.
 
@@ -11,7 +8,7 @@ An advanced AI-powered exoplanet detection system that combines machine learning
 
 "A World Away" is a comprehensive, single-file Python application that automates the process of exoplanet detection using data from NASA's Kepler and TESS space telescopes. This sophisticated system employs a hybrid AI model to analyze light curves, detect transit signals, and characterize planetary properties with professional-grade accuracy.
 
-https://via.placeholder.com/800x400/0B3D91/FFFFFF?text=Exoplanet+AI+Detection+Dashboard
+
 
 🚀 Key Features
 
