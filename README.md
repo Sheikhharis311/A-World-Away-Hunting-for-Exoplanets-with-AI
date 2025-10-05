@@ -1,4 +1,4 @@
-🪐 A World Away: Hunting for Exoplanets with AI
+#🪐 A World Away: Hunting for Exoplanets with AI
 
 https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white
 https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white
@@ -310,9 +310,7 @@ If you use this software in your research, please cite:
 
 📞 Support
 
-· 📧 Email: support@exoplanet-ai.com
-· 🐛 Issues: GitHub Issues
-· 💬 Discussions: GitHub Discussions
+· 📧 Email:  harishrsheikh.ee24f@kdkce.edu.in
 
 🏆 Acknowledgments
 
@@ -344,6 +342,3 @@ v1.0.0 (2024-01-01)
 · Comprehensive visualization suite
 · Professional PDF reporting
 
----
-
-⭐ Star this repository if you find it useful!
